@@ -16,7 +16,7 @@
     <PackageVersion Include="FluentValidation.DependencyInjectionExtensions" Version="11.9.0" /> -->
     <PackageVersion Include="AspNetCore.HealthChecks.SqlServer" Version="5.0.3" />
     <PackageVersion Include="AspNetCore.HealthChecks.UI" Version="5.0.1" />
-    <PackageVersion Include="AspNetCore.HealthChecks.UI.Client" Version="5.0.1" />
+    <PackageVersion Include="AspNetCore.HealthChecks.UI.Client" Version="8.0.1" />
     <PackageVersion Include="AspNetCore.HealthChecks.UI.InMemory.Storage" Version="5.0.1" />
     <PackageVersion Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.1" />
     <PackageVersion Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="9.0.0" />
